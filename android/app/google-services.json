@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933454405595",
+    "firebase_url": "https://flutter-todo-app-60c8e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-todo-app-60c8e",
+    "storage_bucket": "flutter-todo-app-60c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933454405595:android:2d0a027620bff82e43d1fe",
+        "android_client_info": {
+          "package_name": "com.kancanakid.todo.app.flutter_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933454405595-cl6kkke7f26cm7kuglb50mv3v2bhih1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kancanakid.todo.app.flutter_todo_app",
+            "certificate_hash": "89dda8f84cea62e3911e71575ae2173f6fe13fbc"
+          }
+        },
+        {
+          "client_id": "933454405595-64aqcj2p93otiocbgroqeecg20aeltbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8DQY9Q5sKfd4_D-gfF5BkM8CSs3oFY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933454405595-64aqcj2p93otiocbgroqeecg20aeltbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
