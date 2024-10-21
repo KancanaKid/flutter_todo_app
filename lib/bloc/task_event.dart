@@ -1,4 +1,3 @@
-import 'package:flutter_todo_app/domain/model/task.dart';
 
 abstract class TaskEvent {}
 
